@@ -1,2 +1,2 @@
 # design-pattern
-design [attern implement with python, go and ts
+design pattern implement with python, go and ts
