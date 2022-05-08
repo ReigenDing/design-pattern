@@ -41,7 +41,7 @@ class AbstractHandler(Handler):
         return None
 
 
-""" 
+"""
 All Concrete Handlers either handle a request or pass it to the next handler in
 the chin
 """
